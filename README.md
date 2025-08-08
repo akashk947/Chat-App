@@ -7,7 +7,6 @@ A sleek and responsive **real-time chat application** built with **React.js** an
 ## 🚀 Live Demo
 
 👉 [Click here to chat live](https://chat-app-sable-psi.vercel.app/)  
-> Replace this link with your actual Vercel deployment URL.
 
 ---
 
@@ -15,7 +14,9 @@ A sleek and responsive **real-time chat application** built with **React.js** an
 
 - ⚛️ **React.js** – Frontend library
 - 🔥 **Firebase** – Authentication + Firestore (for real-time database)
-- ☁️ **Vercel** – For deployment
+- ☁️ **Vercel** – For deployment - 🖼️ **HTML5** – Markup language
+- 🎨 **CSS3** – Styling and layout
+- 💻 **JavaScript (ES6+)** – Core scripting
 
 ---
 
@@ -25,7 +26,7 @@ A sleek and responsive **real-time chat application** built with **React.js** an
 - 💬 Real-time messaging via Firebase Firestore
 - 👥 Multi-user chat
 - 🧼 Auto-scroll to latest messages
-- 🌓 Responsive UI with light/dark mode *(optional)*
+- 🌓 Responsive UI
 - 🧾 Profile update & image upload
 - 🔒 Secure data storage and access rules
 
