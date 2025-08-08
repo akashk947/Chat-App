@@ -63,15 +63,16 @@ chat-app/
 ```
 
 🌍 Deployment via Vercel
-Push your code to a GitHub repo
 
-Go to https://vercel.com
+1.Push your code to a GitHub repo
 
-Import your GitHub repository
+2.Go to https://vercel.com
 
-Set up required environment variables (if using .env)
+3.Import your GitHub repository
 
-Deploy — your chat app will go live!
+4.Set up required environment variables (if using .env)
+
+5.Deploy — your chat app will go live!
 
 | Feature             | Tech Used          |
 | ------------------- | ------------------ |
