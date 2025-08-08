@@ -44,7 +44,6 @@ chat-app/
 │ │ ├── LeftSidebar.jsx
 │ │ ├── RightSidebar.jsx
 │ │ ├── Message.jsx
-│ │ └── Navbar.jsx
 │ │
 │ ├── pages/
 │ │ ├── Chat.jsx
