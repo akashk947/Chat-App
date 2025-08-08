@@ -35,8 +35,7 @@ A sleek and responsive **real-time chat application** built with **React.js** an
 ---
 
 ## 📁 Project Structure
-
-'''
+```
 chat-app/
 ├── public/
 ├── src/
@@ -62,8 +61,9 @@ chat-app/
 ├── .env
 ├── package.json
 ├── README.md    
-'''
+```
 
+🌍 Deployment via Vercel
 Push your code to a GitHub repo
 
 Go to https://vercel.com
