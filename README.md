@@ -36,31 +36,7 @@ A sleek and responsive **real-time chat application** built with **React.js** an
 
 ## 📁 Project Structure
 
-chat-app/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── ChatBox.jsx
-│ │ ├── LeftSidebar.jsx
-│ │ ├── RightSidebar.jsx
-│ │ ├── Message.jsx
-│ │ 
-│ ├── pages/
-│ │ ├── Chat.jsx
-│ │ ├── Login.jsx
-│ │ └── ProfileUpdate.jsx
-│ │
-│ ├── lib/
-│ │ └── upload.js
-│ │
-│ ├── App.jsx
-│ ├── index.js
-│ └── firebase-config.js
-│
-├── .env
-├── package.json
-├── README.md
-
+<pre lang="text"> ``` chat-app/ ├── public/ ├── src/ │ ├── components/ │ │ ├── ChatBox.jsx │ │ ├── LeftSidebar.jsx │ │ ├── RightSidebar.jsx │ │ ├── Message.jsx │ │ └── Navbar.jsx │ │ │ ├── pages/ │ │ ├── Chat.jsx │ │ ├── Login.jsx │ │ └── ProfileUpdate.jsx │ │ │ ├── lib/ │ │ └── upload.js │ │ │ ├── App.jsx │ ├── index.js │ └── firebase-config.js │ ├── .env ├── package.json ├── README.md ``` </pre>
 🌍 Deployment with Vercel
 Push your code to a GitHub repo
 
