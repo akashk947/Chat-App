@@ -17,6 +17,8 @@ A sleek and responsive **real-time chat application** built with **React.js** an
 - ☁️ **Vercel** – For deployment - 🖼️ **HTML5** – Markup language
 - 🎨 **CSS3** – Styling and layout
 - 💻 **JavaScript (ES6+)** – Core scripting
+- 🖼️ **HTML5** – Markup language
+- 🌳 **Git & GitHub** – Version control and repository hosting
 
 ---
 
