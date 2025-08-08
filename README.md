@@ -1,3 +1,83 @@
+# 💬 Real-Time Chat Application
+
+A sleek and responsive **real-time chat application** built with **React.js** and **Firebase**, allowing users to send and receive messages instantly. Deployed with ❤️ using **Vercel**.
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to chat live](https://chat-app-sable-psi.vercel.app/)  
+> Replace this link with your actual Vercel deployment URL.
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React.js** – Frontend library
+- 🔥 **Firebase** – Authentication + Firestore (for real-time database)
+- ☁️ **Vercel** – For deployment
+
+---
+
+## ✨ Features
+
+- 🔐 Google Sign-In Authentication
+- 💬 Real-time messaging via Firebase Firestore
+- 👥 Multi-user chat
+- 🧼 Auto-scroll to latest messages
+- 🌓 Responsive UI with light/dark mode *(optional)*
+- 🧾 Profile update & image upload
+- 🔒 Secure data storage and access rules
+
+---
+
+## 📁 Project Structure
+
+chat-app/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── ChatBox.jsx
+│ │ ├── LeftSidebar.jsx
+│ │ ├── RightSidebar.jsx
+│ │ ├── Message.jsx
+│ │ 
+│ ├── pages/
+│ │ ├── Chat.jsx
+│ │ ├── Login.jsx
+│ │ └── ProfileUpdate.jsx
+│ │
+│ ├── lib/
+│ │ └── upload.js
+│ │
+│ ├── App.jsx
+│ ├── index.js
+│ └── firebase-config.js
+│
+├── .env
+├── package.json
+├── README.md
+
+🌍 Deployment with Vercel
+Push your code to a GitHub repo
+
+Go to https://vercel.com
+
+Import your GitHub repository
+
+Set up required environment variables (if using .env)
+
+Deploy — your chat app will go live!
+
+| Feature             | Tech Used          |
+| ------------------- | ------------------ |
+| Google Auth         | Firebase Auth      |
+| Real-Time Messaging | Firebase Firestore |
+| Image Upload        | Firebase Storage   |
+| User Profile Update | Custom Page        |
+| File Handling       | `upload.js` module |
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
